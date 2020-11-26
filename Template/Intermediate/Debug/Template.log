@@ -1,2 +1,69 @@
-﻿  StartScene.cpp
-  Template.vcxproj -> C:\Users\User\Desktop\SDL_Engine-master\bin\Debug\Template.exe
+﻿  imgui.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '..\include\IMGUI\imgui.cpp': No such file or directory
+  imgui_demo.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '..\include\IMGUI\imgui_demo.cpp': No such file or directory
+  imgui_draw.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '..\include\IMGUI\imgui_draw.cpp': No such file or directory
+  imgui_widgets.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '..\include\IMGUI\imgui_widgets.cpp': No such file or directory
+  imgui_sdl.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '..\include\IMGUI_SDL\imgui_sdl.cpp': No such file or directory
+  BulletPool.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Button.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  CollisionManager.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Enemy.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  PlayScene2.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Sprite.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  UIControl.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  DisplayObject.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  EndScene.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  FontManager.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\FontManager.h(11,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Game.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Game.h(11,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GameController.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\GameController.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GameObject.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Label.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  PlayScene.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  main.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Game.h(11,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Plane.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Player.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Renderer.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Renderer.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Scene.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  ship.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  SoundManager.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\SoundManager.h(11,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL_mixer.h': No such file or directory
+  EventManager.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\EventManager.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  SpriteSheet.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\SpriteSheet.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  StartScene.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Target.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Transform.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  TextureManager.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\TextureManager.h(10,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/vec2.hpp': No such file or directory
+  Util.cpp
+C:\Users\User\Downloads\Assignment3-Game2005-main\Assignment3-Game2005-main\src\Util.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GLM/vec2.hpp': No such file or directory
+  코드를 생성하고 있습니다...
